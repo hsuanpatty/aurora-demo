@@ -989,7 +989,7 @@ figure {
 
 .america-pt-content {
   position: relative;
-  top: -50px;
+  top: -80px;
 }
 
 .america-items {
@@ -1083,7 +1083,7 @@ figure {
   top: 50%;
   right: 0;
   transform: translate(-50%, -50%);
-  background: linear-gradient(180deg,rgba(255, 255, 255, 0) 18%, rgba(0, 3, 3, 0.822) 100%); 
+  background: linear-gradient(180deg,rgba(255, 255, 255, 0) 18%, rgba(0, 3, 3, 0.5) 100%); 
   width: 20%;
   height: 160px;
   padding: 30px 20px 20px;
@@ -1162,7 +1162,7 @@ figure {
   }
 
   .pt-15 {
-    padding-top: 4rem !important;
+    padding-top: 12rem !important;
   }
 
   .aurora-p {
