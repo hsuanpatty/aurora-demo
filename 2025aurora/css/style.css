@@ -989,7 +989,7 @@ figure {
 
 .america-pt-content {
   position: relative;
-  top: -80px;
+  top: -50px;
 }
 
 .america-items {
@@ -1335,12 +1335,16 @@ figure {
 }
 
 /* media max */
-@media (max-width: 1199.98px) { 
+
+@media (max-width: 1399.98px) {
   .usa-img .usa-img-text {
     transform: translate(-20%, -50%);
     width: 30%;
   }
 
+ }
+
+@media (max-width: 1199.98px) { 
   .alaska-top {
     position: static;
     padding: 20px 40px 0 50px;
